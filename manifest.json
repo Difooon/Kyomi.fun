@@ -1,0 +1,8 @@
+{
+  "short_name": "Kyomi ・Discord бот",
+  "name": "Kyomi ・ Ваша помощница по серверу",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#222"
+}
